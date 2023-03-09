@@ -95,7 +95,7 @@
 - 평가 데이터로 모델 평가
 - 혼동행렬  
 ![image](https://user-images.githubusercontent.com/110115061/223919334-e495de3c-3949-4c8c-8f68-aac7ea4a5421.png)  
-- classification report
+- classification report  
 ![image](https://user-images.githubusercontent.com/110115061/223919425-4a9122a5-b337-4f71-8305-407589d8107d.png)  
 - 정확도와 f1 스코어 모두 높은 값을 보여 꽤 높은 정확도로 폭력상황 여부를 잘 감지하는 것을 확인할 수 있음
 - 모델의 영상 판별 시각화  
